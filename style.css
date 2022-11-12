@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(36, 33, 33);
+    color: rgb(252, 252, 252);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 250px;
+}
+
+.try {
+    font-size: 20px;
+    background-color: rgb(116, 116, 236);
+    width: 250px;
+    height: 50px;
+    border-radius: 70px
+}
+
+.num {
+    color: rgb(252, 252, 252);
+    font-size: 25px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(36, 33, 33);
+    border-right: 0px;
+}
+
+.all {
+    text-align: center;
+}
